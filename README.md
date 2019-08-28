@@ -2,7 +2,7 @@
 
 Il s'agit d'une série de livres qui plongent dans les mécanismes centraux du langage JavaScript.
 
-**Pour en savoir plus sur les motivations et la perspective de cette série de livres, consultez la [Préface] (preface.md).**
+**Pour en savoir plus sur les motivations et la perspective de cette série de livres, consultez la [Préface](preface.md).**
 
 ## Premier sponsor
 
